@@ -1,4 +1,5 @@
 # Telemarketing Campaign
+ Artificial Intelligence course , Machine Learning Project using Rapid-Miner and Weka Softwar.
 
 ## Project Overview 
 The increasing number of marketing campaigns over time cause reducing their effects on the public. So, to increase marketing campaign efficiency we build this project to get a dataset that acts as factors that affect the success of a campaign and predicting whether the campaign will be successful or not.
