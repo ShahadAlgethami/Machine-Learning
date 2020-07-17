@@ -7,7 +7,7 @@ The objective is to build a KNN classifier that predicts whether a client will s
 
 This project aims to build a prediction about who will subscribe a term deposit based on dataset using K-Nearest Neighbor operator, and applied this algorithm on the dataset for 10,000 clients, 1 special attribute and 20 attributes using both Rapid Miner and Weka. Also, this algorithm will be applied again with two validation options (split & cross validation).
 
-### Installation 
+## Installation 
 
 This project requires **Rapid-Miner** and **Weka**.
 To download theses programs :
