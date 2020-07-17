@@ -15,3 +15,12 @@ Bank telemarketing dataset contain 10,000 datasets that related with direct mark
 
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@algethamishahad/telemarketing-campaign-280e253ea8c5?sk=5707e576a9194ece2f94f68d54d68cb3)
+
+
+
+## References
+Bank Marketing Data Set: [here](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+Who Will Subscribe A Term Deposit? : [here](http://www.columbia.edu/~jc4133/ADA-Project.pdf) 
+Evaluating Classifiers: Confusion Matrix for Multiple Classes: [here](https://www.youtube.com/watch?v=FAr2GmWNbT0&list=PLea0WJq13cnCZZ3sXVEZ2OE5 CLeZUlCmm&index=4) 
+What is Classification ? : [here](https://www.youtube.com/watch?v=SAUIDEhGC8w&index=2&list=PLea0WJq13cnCS4LL MeUuZmTxqsqlhwUoe) 
+Confusion matrix : [here](https://en.wikipedia.org/wiki/Confusion_matrix) 
