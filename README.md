@@ -37,5 +37,5 @@ we get the same result as we expected (prediction = yes): means client will subs
 - [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 - [Who Will Subscribe A Term Deposit?](http://www.columbia.edu/~jc4133/ADA-Project.pdf) 
 - [Evaluating Classifiers: Confusion Matrix for Multiple Classes](https://www.youtube.com/watch?v=FAr2GmWNbT0&list=PLea0WJq13cnCZZ3sXVEZ2OE5CLeZUlCmm&index=4) 
-- [What is Classification ?](https://www.youtube.com/watch?v=SAUIDEhGC8w&index=2&list=PLea0WJq13cnCS4LLMeUuZmTxqsqlhwUoe) 
+- [What is Classification?](https://www.youtube.com/watch?v=SAUIDEhGC8w&index=2&list=PLea0WJq13cnCS4LLMeUuZmTxqsqlhwUoe) 
 - [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) 
