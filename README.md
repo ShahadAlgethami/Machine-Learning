@@ -7,6 +7,19 @@ The objective is to build a KNN classifier that predicts whether a client will s
 
 This project aims to build a prediction about who will subscribe a term deposit based on dataset using K-Nearest Neighbor operator, and applied this algorithm on the dataset for 10,000 clients, 1 special attribute and 20 attributes using both Rapid Miner and Weka. Also, this algorithm will be applied again with two validation options (split & cross validation).
 
+### Install
+
+This project requires **Python 2.7** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+
+We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
 ## K-Nearest Neighbor Method
 We used k-nearest method as a classifier operator that generates a k-Nearest Neighbor model from the input dataset then classified the new value to binary classification (Yes, No) based on a similarity measure (distance functions) and classified by a majority vote of its neighbors. We chose this method because it helps in predicate the results of the target attribute, which the attribute can be classified as binary response.
 
@@ -27,7 +40,10 @@ As a conclusion, we noticed that cross validation using weka program is better f
 we get the same result as we expected (prediction = yes): means client will subscribe a term deposit. Since the prediction is affected by data as factors; we can see the client performed 2-contacts during the campaign, last contacts were before 10 days and the outcome of the previous marketing campaign was success for this client. these are some of the factors helps in predicate the results.
 
 ## References
-Bank Marketing Data Set: [here](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+
+- [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+
+
 Who Will Subscribe A Term Deposit? : [here](http://www.columbia.edu/~jc4133/ADA-Project.pdf) 
 Evaluating Classifiers: Confusion Matrix for Multiple Classes: [here](https://www.youtube.com/watch?v=FAr2GmWNbT0&list=PLea0WJq13cnCZZ3sXVEZ2OE5CLeZUlCmm&index=4) 
 What is Classification ? : [here](https://www.youtube.com/watch?v=SAUIDEhGC8w&index=2&list=PLea0WJq13cnCS4LLMeUuZmTxqsqlhwUoe) 
