@@ -1,6 +1,6 @@
 # Telemarketing Campaign
 
-## Introduction
+## Project Overview 
 The increasing number of marketing campaigns over time cause reducing their effects on the public. So, to increase marketing campaign efficiency we build this project to get a dataset that acts as factors that affect the success of a campaign and predicting whether the campaign will be successful or not.
 The objective is to build a KNN classifier that predicts whether a client will subscribe a term deposit. If the classifier has high accuracy, then banks can arrange a better management to improve their efficiency their profits.
 
