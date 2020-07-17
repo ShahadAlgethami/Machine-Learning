@@ -13,3 +13,5 @@ We used k-nearest method as a classifier operator that generates a k-Nearest Nei
 Bank telemarketing dataset contain 10,000 datasets that related with direct marketing which based on phone call. The goal of classification these data is to predict whether campaign will be successful to a certain client according on the dataset attributes.
 
 ## Results
+## Results
+The main findings of the code can be found at the post available [here](https://medium.com/@algethamishahad/most-common-programming-languages-used-in-united-states-ddd059f6a6cc?sk=7b03e2c1dac2bdc1b92fc617c8291174)
