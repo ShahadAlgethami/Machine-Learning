@@ -9,10 +9,10 @@ This project aims to build a prediction about who will subscribe a term deposit 
 
 ### Installation 
 
-This project requires **Rapid-Miner** and **Weka** ..
-
-- [Download Weka from] (http://www.cs.waikato.ac.nz/ml/weka/downloading.html)
-
+This project requires **Rapid-Miner** and **Weka**.
+To download theses programs :
+- [Download Weka from](http://www.cs.waikato.ac.nz/ml/weka/downloading.html)
+- [Weka](http://www.cs.waikato.ac.nz/ml/weka/downloading.html)
 ## K-Nearest Neighbor Method
 We used k-nearest method as a classifier operator that generates a k-Nearest Neighbor model from the input dataset then classified the new value to binary classification (Yes, No) based on a similarity measure (distance functions) and classified by a majority vote of its neighbors. We chose this method because it helps in predicate the results of the target attribute, which the attribute can be classified as binary response.
 
