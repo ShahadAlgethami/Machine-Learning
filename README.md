@@ -22,6 +22,8 @@ As the previous result, we approved a difference between each program (rapid min
 
 As a conclusion, we noticed that cross validation using weka program is better for telemarketing campaign success because its produce a high accuracy and precision results. After Applying the model to test/predicate new data with client information.
 
+[![image.png](https://i.postimg.cc/26xxws6J/image.png)](https://postimg.cc/LYnf40jB)
+
 we get the same result as we expected (prediction = yes): means client will subscribe a term deposit. Since the prediction is affected by data as factors; we can see the client performed 2-contacts during the campaign, last contacts were before 10 days and the outcome of the previous marketing campaign was success for this client. these are some of the factors helps in predicate the results.
 
 ## References
