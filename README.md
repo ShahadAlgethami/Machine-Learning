@@ -16,7 +16,13 @@ Bank telemarketing dataset contain 10,000 datasets that related with direct mark
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@algethamishahad/telemarketing-campaign-280e253ea8c5?sk=5707e576a9194ece2f94f68d54d68cb3)
 
+## Conclusion
+[![image.png](https://i.postimg.cc/MHW9JWNq/image.png)](https://postimg.cc/1njGpZyj)
+As the previous result, we approved a difference between each program (rapid miner & weka) in predicate the target. Since in Spilt validation, the accuracy values are better a little in weka than rapid miner, unless the rapid miner is better than weka in evaluate the precision and recall values. Also in Cross validation, we noticed that weka still better than rapid miner in evaluate the accuracy and in the precision; but still weak in calculating the recall value.
 
+As a conclusion, we noticed that cross validation using weka program is better for telemarketing campaign success because its produce a high accuracy and precision results. After Applying the model to test/predicate new data with client information.
+
+we get the same result as we expected (prediction = yes): means client will subscribe a term deposit. Since the prediction is affected by data as factors; we can see the client performed 2-contacts during the campaign, last contacts were before 10 days and the outcome of the previous marketing campaign was success for this client. these are some of the factors helps in predicate the results.
 
 ## References
 Bank Marketing Data Set: [here](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
